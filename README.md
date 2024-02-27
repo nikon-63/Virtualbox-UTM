@@ -45,13 +45,13 @@ qemu-img convert -O qcow2 <Generated vmdk file> <qcow2 Output File>
 ![Screenshot](Images/img6.png)
 6. Select "Save".
 ![Screenshot](Images/img7.png)
-7. Enter VM settings.
+7. Enter VM settings.\
 ![Screenshot](Images/img8.png)
 8. Uncheck "UEFI Boot"
 ![Screenshot](Images/img9.png)
 9. Create a new drive. Select "Import" and then select your .qcow2 file.
 *Note: Make sure the "size" is set to the same as the .qcow2 file.* 
 ![Screenshot](Images/img10.png)
-10. Move up the new IDE Drive to the top
+10. Move up the new IDE Drive to the top. \
 ![Screenshot](Images/img11.png)
 11. Save and then Boot up your virtual machine 
