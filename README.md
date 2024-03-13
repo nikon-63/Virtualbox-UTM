@@ -3,7 +3,7 @@ Method to convert .ova files to .qcow2 files that can be used with UTM on Apple 
 
 ## Requirements
 ```
-brew install qume
+brew install qemu
 ```
 
 ## Conversion
