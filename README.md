@@ -8,12 +8,16 @@ brew install qemu
 
 ## Conversion
 ### Auto Conversion
+```
+wget https://raw.githubusercontent.com/nikon-63/Virtualbox-UTM/main/autoConversion.sh
+```
 Copy the autoConversion.sh file to the directory that contains the .ova file. 
 *Note: Please ensure that the directory contains only one .ova file.* 
 
 **Make file executable**
 ```
 chmod +x autoConversion.sh
+wget https://raw.githubusercontent.com/nikon-63/Virtualbox-UTM/main/autoConversion.sh
 ```
 
 **Run script**
